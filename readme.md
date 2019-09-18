@@ -1,3 +1,3 @@
-Yo, thatm very satisfyied
-# Yo, thatm very satisfyied
-# Yo, thats git and Im very satisfyied
+Yo, thats git and Im very satisfyied
+
+hse-cs/test Всё для сдачи задачи
