@@ -5,3 +5,5 @@ branch
 checkout
 
 my branch is B46
+
+test must be done + lab1
